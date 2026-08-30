@@ -17,7 +17,7 @@
 
 Все запросы можно выполнить на главной странице.
 
-
+<img width="872" height="883" alt="Screenshot_2" src="https://github.com/user-attachments/assets/d707c40d-f651-483f-8867-8d5aa95210ea" />
 
 ## Как правильно сохранять БД
 
